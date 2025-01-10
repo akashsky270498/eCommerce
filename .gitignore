@@ -1,0 +1,8 @@
+# Node artifact files
+node_modules/
+dist/
+src/public/
+.env
+
+# Compiled Java class files
+*.class
